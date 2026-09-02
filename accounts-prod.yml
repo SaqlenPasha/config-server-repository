@@ -8,7 +8,7 @@ accounts:
   message: "Welcome to EazyBank accounts related Prod APIs "
   contactDetails:
     name: "Saqlen - Developer"
-    email: "saqlen@eazybank.com"
+    email: "{cipher}54df4820c46109e01050d724803052bb7c26ffe081a6f75f7e29fc512f569cc19d09fe70bed09cf256dbfefad1a09de7"
   onCallSupport:
     - (555) 093-1234
     - (555) 389-1345
