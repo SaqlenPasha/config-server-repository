@@ -3,7 +3,7 @@ spring:
     activate:
       on-profile: prod
 build:
-  version: 1.0.4
+  version: 1.0.5
 accounts:
   message: "Welcome to EazyBank accounts related Prod APIs "
   contactDetails:
