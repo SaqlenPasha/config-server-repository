@@ -5,7 +5,7 @@ spring:
 build:
   version: 1.0.5
 accounts:
-  message: "Welcome to EazyBank accounts related production APIs "
+  message: "Welcome to EazyBank accounts related webhook APIs "
   contactDetails:
     name: "Saqlen - Developer"
     email: "{cipher}54df4820c46109e01050d724803052bb7c26ffe081a6f75f7e29fc512f569cc19d09fe70bed09cf256dbfefad1a09de7"
