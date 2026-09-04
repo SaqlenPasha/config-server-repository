@@ -5,7 +5,7 @@ spring:
 build:
   version: 3.0.0
 loans:
-  message: "Welcome to EazyBank accounts related local APIs "
+  message: "Welcome to EazyBank accounts related production APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
