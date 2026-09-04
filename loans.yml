@@ -19,7 +19,7 @@ spring:
     show-sql: true      # Set to false in production
     properties:
       hibernate:
-        dialect: org.hibernate.dialect.PostgreSQLDialect
+        dialect: org.hibernate.dialect.MySQLDialect
         format_sql: true  # Set to false in production
 
 server:
@@ -29,13 +29,3 @@ logging:
   level:
     org.hibernate.SQL: DEBUG           # Set to INFO or WARN in production
     org.hibernate.type.descriptor.sql.BasicBinder: TRACE  # Set to INFO in production
-build:
-  version: 3.0.0
-loans:
-  message: "Welcome to EazyBank accounts related local APIs "
-  contactDetails:
-    name: "John Doe - Developer"
-    email: "john@eazybank.com"
-  onCallSupport:
-    - (555) 555-1234
-    - (555) 523-1345
